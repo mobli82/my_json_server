@@ -1,31 +1,18 @@
 {
-  "posts": [
+  "coffee": [
     {
       "id": 1,
-      "title": "Post 1"
+      "name": "Gerry",
+      "drink": "coffee"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "name": "Nick",
+      "drink": "cappuchinno"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "name": "Merry",
+      "drink": "Latte"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
