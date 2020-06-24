@@ -1,17 +1,14 @@
 {
   "coffee": [
     {
-      "id": 1,
       "name": "Gerry",
       "drink": "coffee"
     },
     {
-      "id": 2,
       "name": "Nick",
       "drink": "cappuchinno"
     },
     {
-      "id": 3,
       "name": "Merry",
       "drink": "Latte"
     }
